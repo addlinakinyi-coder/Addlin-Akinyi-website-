@@ -10,3 +10,15 @@ I want to become a **skilled** developer, stay *consistent*, and practice `HTML`
  Visit my GitHub profile: [Addlin
  Akinyi](https://github.com/addlinakinyi-coder)
  
+ ## Things I Want to Learn
+
+- Responsive Design
+- Git and GitHub
+- Building Real Projects
+
+## Steps to Make a Git Commit
+
+1. Make changes to a file
+2. Click "Commit changes"
+3. Write a commit message
+4. Confirm the commit
