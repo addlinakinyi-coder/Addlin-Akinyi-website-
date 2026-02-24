@@ -35,3 +35,17 @@ I want to become a **skilled** developer, stay *consistent*, and practice `HTML`
 - [x] Practice Markdown
 - [ ] Learn JavaScript
 - [ ] Build a portfolio website
+## Code Example
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Page</title>
+</head>
+<body>
+  <h1>Hello World</h1>
+  <p>I am learning Markdown and HTML!</p>
+</body>
+</html>
+```]
