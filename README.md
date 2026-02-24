@@ -37,19 +37,19 @@ I want to become a **skilled** developer, stay *consistent*, and practice `HTML`
 - [ ] Build a portfolio website
 ## Code Example
 
+
 ```html
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My First Page</title>
+    <title>My First Page</title>
 </head>
 <body>
-  <h1>Hello World</h1>
-  <p>I am learning Markdown and HTML!</p>
+    <h1>Hello World</h1>
+    <p>I am learning Markdown and HTML!</p>
 </body>
 </html>
-```]
-
+```
 ## Advice
 
 > Stay consistent. Small progress every day leads to big results.
