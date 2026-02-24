@@ -49,3 +49,7 @@ I want to become a **skilled** developer, stay *consistent*, and practice `HTML`
 </body>
 </html>
 ```]
+
+## Advice
+
+> Stay consistent. Small progress every day leads to big results.
