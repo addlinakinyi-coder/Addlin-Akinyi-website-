@@ -29,3 +29,9 @@ I want to become a **skilled** developer, stay *consistent*, and practice `HTML`
 | GitHub | Hosting my projects | https://github.com |
 | VS Code | Writing and editing code | https://code.visualstudio.com |
 | HTML | Building web pages | https://developer.mozilla.org/en-US/docs/Web/HTML |
+## My Task List
+
+- [x] Learn HTML
+- [x] Practice Markdown
+- [ ] Learn JavaScript
+- [ ] Build a portfolio website
