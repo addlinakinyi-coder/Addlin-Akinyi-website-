@@ -22,3 +22,10 @@ I want to become a **skilled** developer, stay *consistent*, and practice `HTML`
 2. Click "Commit changes"
 3. Write a commit message
 4. Confirm the commit
+## Tools I Use
+
+| Tool | Purpose | Link |
+|------|----------|------|
+| GitHub | Hosting my projects | https://github.com |
+| VS Code | Writing and editing code | https://code.visualstudio.com |
+| HTML | Building web pages | https://developer.mozilla.org/en-US/docs/Web/HTML |
